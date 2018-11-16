@@ -58,7 +58,7 @@ Now that we know how to input data into our visualisations lets see what other f
   
 Take some time to try out different combinations of data and visualisations.  
   
-![Screenshot 6][scrn6]
+![Screenshot 7][scrn7]
 
 
 
@@ -78,8 +78,7 @@ Take some time to try out different combinations of data and visualisations.
 [scrn2]: tableau-scrn2.png  
 [scrn3]: tableau-scrn3.png  
 [scrn4]: tableau-scrn4.png  
-[scrn5]: tableau-scrn5.png  
-[scrn6]: tableau-scrn6.png  
+[scrn5]: tableau-scrn5.png    
 [scrn7]: tableau-scrn7.png  
 [scrn8]: tableau-scrn8.png  
 [scrn9]: tableau-scrn9.png  
