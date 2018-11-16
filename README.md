@@ -38,11 +38,27 @@ Next we will drag the Order-Details.csv file into the tables area.  Tableau noti
 
 ![Screenshot 3][scrn3]  
   
-Now that we have brought in and connected our data it is time to start working with it to make useful visualizations!  Click on the "Sheet1" tab in the bottom left corner to move to our first worksheet.  Each worksheet represents one visualisation that we can the combine into a dashboard later.
-
-
-
-
+Now that we have brought in and connected our data it is time to start working with it to make useful visualizations!  Click on the "Sheet1" tab in the bottom left corner to move to our first worksheet.  Each worksheet represents one visualisation that we can combine into a dashboard later.  
+  
+On the left side of worksheet you will see your data menu.  Here you can select which data you will use in your visualisation.  The menu is split into Dimensions, which are _**usually**_ used to define your columns and rows, and Measures, which _**usually**_ are used to define the values in a visualisation.  We say usually because in tableau almost any data can be used in any part of a visualisation.  Some measures can even be turned into dimensions and vice versa!  
+  
+Adding data to a visualisation is as easy as dragging and dropping a piece of data from the menu into one of six  locations on the worksheet.  For now we will focus on the main four areas used to make visualisations.  The image below shows these four areas.  
+  
+![Screenshot 4][scrn4]  
+  
+Lets try it out by dragging "Product Type" from the dimensions menu into the visualisation area.  Tableau automatically decides that this data would be best represented as rows so it puts the pill (the colored oval representing this piece of data) into the Rows shelf.  Tableau has taken each unique value from the Product Type data and turned it into a row header in a table.  You will also see that the next column in the table has no title and is filled with "Abc".  This is how tableau tells us that more information is required to make this kind of visualisation.  Now lets add a value to this table.  To do this we will drag "Quantity Ordered" from Measures into the empty space at the bottom of the Marks box.  Nothing has changed aside from a green pill called "SUM(Quantity Ordered)" now sits at the bottom of the Marks box.  This is because we have to tell Tableau that this data should be represented in the visualisation as text.  we do this by clicking the little pile of dots beside the pill and selecting that we want this pills data to be represented as text.  Tada!  Now we have our first visualisation of our data.  
+  
+Tables are very useful for people who like numbers but sometimes you need to present your data in a more compelling way.  That is where the true power of Tableau comes in.  Drag your green pill from the Marks box up into the Columns shelf.  Tableau recognises that the best way to display this data has changed and adjusts accordingly by switching from a table to a bar graph.  Now we can see from a quick glance that Classic Cars are by far the most ordered product and Trains are the least.  To see more specific information you can hover over individual bars in the graph to view the tooltip which contains the details for that data.  To polish our visualisation even further we can sort our graph by hovering over the lable on the bottom (Quantity Ordered) and clicking once on the sort icon that appears there.  Now our graph is sorted in descending order.  To switch to Ascending we click the sort button again and to remove the sort we click it a third time.  
+  
+![Screenshot 5][scrn5]
+  
+Now we have a beautiful and compelling visualisation showing us the total number of each product type that was ordered.  As great as this is, we need to remember that our data spans three years.  What if we wanted to see data for just one year?  This is where the filters box comes in.  Any data we have can be used as a filter to narrow the focus of our visualisation.  We want to see specific years so lets drag "Date of Order" from dimensions over to the Filters box (right above the Marks box).  You will now see a filter appear on the right of the visualisation.  Here you can select which years data you want to display!  Try unchecking the boxes to see how the graph changes.
+  
+Now that we know how to input data into our visualisations lets see what other forms it can take.  In the top right corner you will see the "Show Me" button.  This opens a menu for changing which type of visualisation you are using to represent your data.  As you hover over each type you can see what kind of data is needed to use that visualization.  Click on one that you like and see how your data looks in a different form.  
+  
+Take some time to try out different combinations of data and visualisations.  
+  
+![Screenshot 6][scrn6]
 
 
 
