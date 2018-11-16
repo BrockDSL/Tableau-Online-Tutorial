@@ -52,16 +52,28 @@ Tables are very useful for people who like numbers but sometimes you need to pre
   
 ![Screenshot 5][scrn5]
   
-Now we have a beautiful and compelling visualisation showing us the total number of each product type that was ordered.  As great as this is, we need to remember that our data spans three years.  What if we wanted to see data for just one year?  This is where the filters box comes in.  Any data we have can be used as a filter to narrow the focus of our visualisation.  We want to see specific years so lets drag "Date of Order" from dimensions over to the Filters box (right above the Marks box).  You will now see a filter appear on the right of the visualisation.  Here you can select which years data you want to display!  Try unchecking the boxes to see how the graph changes.
+Now we have a beautiful and compelling visualisation showing us the total number of each product type that was ordered.  As great as this is, we need to remember that our data spans three years.  What if we wanted to see data for just one year?  This is where the filters box comes in.  Any data we have can be used as a filter to narrow the focus of our visualisation.  We want to see specific years so lets drag "Date of Order" from dimensions over to the Filters box (right above the Marks box).  You will now see a filter appear on the right of the visualisation.  Here you can select which years data you want to display!  Try unchecking the boxes to see how the graph changes.  If you want to get even more detailed you can add another instance of "Date of Order" to the filter box.  Now click the down arrow on the new pill and select month to add the new filter to the right of your page.
   
 Now that we know how to input data into our visualisations lets see what other forms it can take.  In the top right corner you will see the "Show Me" button.  This opens a menu for changing which type of visualisation you are using to represent your data.  As you hover over each type you can see what kind of data is needed to use that visualization.  Click on one that you like and see how your data looks in a different form.  
   
 Take some time to try out different combinations of data and visualisations.  
   
-![Screenshot 7][scrn7]
+![Screenshot 7][scrn7]  
+  
+You will notice that beside each piece of data in the menu there is a symbol that represents what kind of data it is.  Tableau has assigned a type that it thinks best suits each piece of data.  These types are important for working with certain visualisations.  In the "Show Me" menu when you hover over certain visualisations it will show that a specific type of data is required to use it.  For example the Map visualisations require geo data.  If you want to change the type on a piece of data click on the down arrow that appears when you hover over it.  Go down to "Change Data Type" and select the data's new type.  Keep in mind the data that you are changing the type of.  Just because you changed you list of products into geo data does not mean that Tableau will be able to make a map out of it.  You can also change data from being a dimension to being a measure by clicking its down arrow and selecting "Convert to Measure/Dimension".  This can be useful if you want the count of values in a piece of data as opposed to the value's themselves.
 
 
+### Sheets, Dashboards, and Stories
 
+Now that you can make visualisations you need to know how to show them off.  At the bottom left of the visualisation area you will see the buttons to add new sheets, dashboards and stories.  Each sheet can contain one visualisation.  For this example lets make three sheets with three different visualisations on them.  Rename your sheets to something representative of the visualisation it contains.  Next we will create a dashboard using the "New Dashboard" button on the bottom bar.  A dashboard lets you display and arrange your visualisations in a powerful interactive display.  
+  
+To add a visualisation to your dashboard, drag one of your sheets from the menu on the left into the dashboard.  
+Tableau will automatically adjust it so that it fills the page.  drag the other two visualisations into the dashboard.  Tableau will adjust each piece to fit the space.  This can cause problems with some visualisation types.  If you are unhappy with how Tableau automatically aranges your visualisations you can move them manually by selecting each piece, clickig the down arrow at the top right, and selecting "floating".  This will remove that piece from Tableaus formatting and allow you to move your visualisations around freely by dragging the bar at the top of the items box.
+
+![Screenshot 8][scrn8]  
+  
+  
+![Screenshot 9][scrn9]
 
 
 
