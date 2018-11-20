@@ -65,16 +65,19 @@ You will notice that beside each piece of data in the menu there is a symbol tha
 
 ### Sheets, Dashboards, and Stories
 
-Now that you can make visualisations you need to know how to show them off.  At the bottom left of the visualisation area you will see the buttons to add new sheets, dashboards and stories.  Each sheet can contain one visualisation.  For this example lets make three sheets with three different visualisations on them.  Rename your sheets to something representative of the visualisation it contains.  Next we will create a dashboard using the "New Dashboard" button on the bottom bar.  A dashboard lets you display and arrange your visualisations in a powerful interactive display.  
+Now that you can make visualisations you need to know how to show them off.  At the bottom left of the visualisation area you will see the buttons to add new sheets, dashboards and stories.  Each sheet can contain one visualisation.  For this example lets make three sheets with three different visualisations on them.  Rename your sheets to something representative of what the visualisation contains by right clicking on the sheet in the bottom menu and selecting "Rename".  Next we will create a dashboard using the "New Dashboard" button on the bottom bar.  A dashboard lets you display and arrange your visualisations in a powerful interactive display.  
   
 To add a visualisation to your dashboard, drag one of your sheets from the menu on the left into the dashboard.  
-Tableau will automatically adjust it so that it fills the page.  drag the other two visualisations into the dashboard.  Tableau will adjust each piece to fit the space.  This can cause problems with some visualisation types.  If you are unhappy with how Tableau automatically aranges your visualisations you can move them manually by selecting each piece, clickig the down arrow at the top right, and selecting "floating".  This will remove that piece from Tableaus formatting and allow you to move your visualisations around freely by dragging the bar at the top of the items box.
+Tableau will automatically adjust it so that it fills the page.  drag the other two visualisations into the dashboard.  Tableau will adjust each piece to fit the space.  This can cause problems with some visualisation types.  If you are unhappy with how Tableau automatically aranges your visualisations you can move them manually by selecting each piece, clicking the down arrow at the top right, and selecting "floating".  This will remove that piece from Tableaus formatting and allow you to move your visualisations around freely by dragging the bar at the top of the items box.  Alternatively you can make all sheets added to the dashboard floating from the start by selecting the "floating" option near the bottom of the left menu before adding any sheets.
 
 ![Screenshot 8][scrn8]  
   
   
 ![Screenshot 9][scrn9]
-
+  
+Now that we have nice clean dashboard lets explore some of its basic functionality.  You will notice that like on your worksheets, clicking on differents data on the dashboard highlights that data on that particular visualisation and clicking again on the same data removes the highlight.  We can expand on this functionality by selecting one of our visualisations and clicking on the "Use as Filter" icon.  Now when you select a piece of data from that visualisation it will alter all other visualisations on that dashboard to show only the data related to what you have selected.  
+  
+![Screenshot 9][scrn9]  
 
 
 
