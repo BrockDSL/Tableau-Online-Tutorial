@@ -10,6 +10,7 @@ First things first you will need to download the files that we will be using for
   
 [File 1](Order-Contents.csv)  
 [File 2](Order-Details.csv)  
+[File 3](Sample-Image.png)  
   
 
 Next you will need to log in to Tableau Online.  Navigate to the [login page](https://sso.online.tableau.com/public/idp/SSO) and enter your login information.  If you do not have a login you can request a free trial of the full version of Tableau Online [here](https://www.tableau.com/trial/tableau-online).  
@@ -75,11 +76,11 @@ Tableau will automatically adjust it so that it fills the page.  drag the other 
   
 ![Screenshot 9][scrn9]
   
-Now that we have nice clean dashboard lets explore some of its basic functionality.  You will notice that like on your worksheets, clicking on differents data on the dashboard highlights that data on that particular visualisation and clicking again on the same data removes the highlight.  We can expand on this functionality by selecting one of our visualisations and clicking on the "Use as Filter" icon.  Now when you select a piece of data from that visualisation it will alter all other visualisations on that dashboard to show only the data related to what you have selected.  
+You will notice that like on your worksheets, clicking on differents data on the dashboard highlights that data on that particular visualisation and clicking again on the same data removes the highlight.  We can expand on this functionality by selecting one of our visualisations and clicking on the "Use as Filter" icon.  Now when you select a piece of data from that visualisation it will alter all other visualisations on that dashboard to show only the data related to what you have selected.  
   
 ![Screenshot 9][scrn9]  
 
-
+Lets look at customizing a dashboard further.  Just above the "Tiled" and "Floating" buttons you will see a selection of objects that you can use to make your dashboard mor functional and visually apealing.  By clicking and dragging one of these objects onto your visualisation you can add images, text, windows containing web pages, and buttons connecting to other dashboards, sheets and stories.  Lets remove our Orders Per Month visualisation from our dashboard to make some room.  To remove an object or visualisation from your dashboard, select it and click the x in the top right corner.  Now lets add an image to use as a background for our dashboard.  
 
 
 
