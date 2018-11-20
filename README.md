@@ -6,7 +6,7 @@ A beginners guide to making interactive data visualisations using Tableau Online
 
 
 ### Getting Started  
-First things first you will need to download the files that we will be using for this tutorial.  Navigate to each of the links below.  You will be taken to a GitHub page showing the data.  Right click on the "Raw" button at the top right of the data and select "save link as" to save the files to your computer.  
+First things first you will need to download the files that we will be using for this tutorial.  Navigate to each of the links below.  You will be taken to a GitHub page showing the data.  Right click on the "Raw" or "Download" button at the top right of the data and select "save link as" to save the files to your computer.  
   
 [File 1](Order-Contents.csv)  
 [File 2](Order-Details.csv)  
@@ -80,9 +80,13 @@ You will notice that like on your worksheets, clicking on differents data on the
   
 ![Screenshot 9][scrn9]  
 
-Lets look at customizing a dashboard further.  Just above the "Tiled" and "Floating" buttons you will see a selection of objects that you can use to make your dashboard mor functional and visually apealing.  By clicking and dragging one of these objects onto your visualisation you can add images, text, windows containing web pages, and buttons connecting to other dashboards, sheets and stories.  Lets remove our Orders Per Month visualisation from our dashboard to make some room.  To remove an object or visualisation from your dashboard, select it and click the x in the top right corner.  Now lets add an image to use as a background for our dashboard.  
-
-
+Lets look at customizing a dashboard further.  Just above the "Tiled" and "Floating" buttons you will see a selection of objects that you can use to make your dashboard mor functional and visually apealing.  By clicking and dragging one of these objects onto your visualisation you can add images, text, windows containing web pages, and buttons connecting to other dashboards, sheets and stories.  Lets remove our Orders Per Month visualisation from our dashboard to make some room.  To remove an object or visualisation from your dashboard, select it and click the x in the top right corner.  
+  
+Now lets add an image to use as a background for our dashboard.  Drag the image object from the menu onto the dashboard.  In the window that pops up select the sample image you downloaded at the beginning of this tutorial and then click ok.  Now resize the image to fit the entire dashboard.  Here you will see that the image has covered everything else that we had on our dashboard.  To fix this fo to the drop down arrow for the image, go to floating order, and select send to back.  This will put the image behind everything else on the dashboard.  Keep this in mind when creating a dashboard using floating objects.  
+  
+Next let us add some text to our dashboard.  We are going to want to share this with people who may not be familiar with what we are doing so lets add a brief description of our data and instructions on how to interact with it.  Drag the text object onto the dashboard and write some helpful text.  
+  
+Now we have a nice helpful visualisation with a nice description but what about the Orders per Month?  We could add it to this page but that might end up looking a bit cluttered.  Instead we will make another dashboard and add a button that lets us switch back and forth between the two.  When using multiple dashboards for the same data it is a good idea to maintain a consitant formatting.  We could build the new dashboard from the ground up but it is much easier to copy our current dashboard and then alter it.  To do this, right click on the current dashboard at the bottom of the page and select "Duplicate".  We now have two copies of the same dashboard.  Now lets delete the Total Product Numbers visualisation and add in the Orders per Month.  Lets also change the text to reflect the new data represented on this dashboard.  To do this, either click the down arrow for the test object and select edit text or double click on the text object.
 
 
 
