@@ -78,15 +78,23 @@ Tableau will automatically adjust it so that it fills the page.  drag the other 
   
 You will notice that like on your worksheets, clicking on differents data on the dashboard highlights that data on that particular visualisation and clicking again on the same data removes the highlight.  We can expand on this functionality by selecting one of our visualisations and clicking on the "Use as Filter" icon.  Now when you select a piece of data from that visualisation it will alter all other visualisations on that dashboard to show only the data related to what you have selected.  
   
-![Screenshot 9][scrn9]  
+![Screenshot 10][scrn10]  
 
 Lets look at customizing a dashboard further.  Just above the "Tiled" and "Floating" buttons you will see a selection of objects that you can use to make your dashboard mor functional and visually apealing.  By clicking and dragging one of these objects onto your visualisation you can add images, text, windows containing web pages, and buttons connecting to other dashboards, sheets and stories.  Lets remove our Orders Per Month visualisation from our dashboard to make some room.  To remove an object or visualisation from your dashboard, select it and click the x in the top right corner.  
   
 Now lets add an image to use as a background for our dashboard.  Drag the image object from the menu onto the dashboard.  In the window that pops up select the sample image you downloaded at the beginning of this tutorial and then click ok.  Now resize the image to fit the entire dashboard.  Here you will see that the image has covered everything else that we had on our dashboard.  To fix this fo to the drop down arrow for the image, go to floating order, and select send to back.  This will put the image behind everything else on the dashboard.  Keep this in mind when creating a dashboard using floating objects.  
   
+![Screenshot 11][scrn11]  
+  
 Next let us add some text to our dashboard.  We are going to want to share this with people who may not be familiar with what we are doing so lets add a brief description of our data and instructions on how to interact with it.  Drag the text object onto the dashboard and write some helpful text.  
   
-Now we have a nice helpful visualisation with a nice description but what about the Orders per Month?  We could add it to this page but that might end up looking a bit cluttered.  Instead we will make another dashboard and add a button that lets us switch back and forth between the two.  When using multiple dashboards for the same data it is a good idea to maintain a consitant formatting.  We could build the new dashboard from the ground up but it is much easier to copy our current dashboard and then alter it.  To do this, right click on the current dashboard at the bottom of the page and select "Duplicate".  We now have two copies of the same dashboard.  Now lets delete the Total Product Numbers visualisation and add in the Orders per Month.  Lets also change the text to reflect the new data represented on this dashboard.  To do this, either click the down arrow for the test object and select edit text or double click on the text object.
+Now we have a nice helpful visualisation with a nice description but what about the Orders per Month?  We could add it to this page but that might end up looking a bit cluttered.  Instead we will make another dashboard and add a button that lets us switch back and forth between the two.  When using multiple dashboards for the same data it is a good idea to maintain a consitant formatting.  We could build the new dashboard from the ground up but it is much easier to copy our current dashboard and then alter it.  To do this, right click on the current dashboard at the bottom of the page and select "Duplicate".  We now have two copies of the same dashboard.  For this tutorial we will rename our new dashboard as "Dashboard 2".  Now lets delete the Total Product Numbers visualisation from our new dashboard and add in the Orders per Month.  Lets also change the text to reflect the new data represented on this dashboard.  To do this, either click the down arrow for the test object and select edit text or double click on the text object.  So now we have two nice clean dashboards that we can show off but to make for easier navigation between the two lets add a button to each.  Drag the button object from the menu onto the dashboard.  Click the down arrow on the button and select "Edit Button".  Here we will change the destination to our other dashboard using the drop down menu and then we will write either "Next Page" or "Previous Page" as the tooltip.  You can also add an image to the buttons if you want to customize them more.  
+
+Now is a good time to **save your progress**.  Saving frequently is a good habit to get into.  Save by either going to the file tab and clicking "Save" or by clicking on the save icon.
+  
+![Screenshot 12][scrn12]  
+  
+
 
 
 
@@ -102,4 +110,10 @@ Now we have a nice helpful visualisation with a nice description but what about 
 [scrn7]: tableau-scrn7.png  
 [scrn8]: tableau-scrn8.png  
 [scrn9]: tableau-scrn9.png  
-[scrn10]: tableau-scrn10.png  
+[scrn10]: tableau-scrn10.png 
+[scrn11]: tableau-scrn11.png 
+[scrn12]: tableau-scrn12.png 
+[scrn13]: tableau-scrn13.png 
+[scrn14]: tableau-scrn14.png 
+[scrn15]: tableau-scrn15.png 
+[scrn16]: tableau-scrn16.png 
