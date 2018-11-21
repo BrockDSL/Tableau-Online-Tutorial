@@ -103,11 +103,14 @@ Now let's go back into editing mode and look at one more tool.
   
 ### Stories  
 
-Stories are interactive slideshows that let you present data visualisations in an order that suits your needs.  To create a new story, click on the "New Story" button on the bottom bar.  To make a quick and simple story, double click on one of you sheets in the menu to add it to the story and then click in the caption box at the top and name the page sometheing relevant to the visualisation it contains.  Repeat this for your other two sheets and it should look like below.  
+Stories are interactive slideshows that let you present data visualisations in an order that suits your needs.  To create a new story, click on the "New Story" button on the bottom bar.  To make a quick and simple story, double click on one of you sheets in the menu to add it to the story and then click in the caption box at the top and name the page sometheing relevant to the visualisation it contains.  Repeat this for your other two sheets and you should have a simple story like the one below.  
   
 ![Screenshot 15][scrn15]  
   
-
+Stories can also be made out of dashboards although buttons do not work in stories.  Stories are the best option for displaying visualisations in a presentation setting where you have a flow of information or a point that you are trying to make with the data.  Using dashboards on their own can be a better option when you are giving the information to someone else to look at and you want them to be able to move around the dat freely.  
+  
+Think about who your visualisations are for when you are deciding how to present them.  
+  
 
 
 
