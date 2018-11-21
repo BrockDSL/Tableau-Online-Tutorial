@@ -64,7 +64,7 @@ Take some time to try out different combinations of data and visualisations.
 You will notice that beside each piece of data in the menu there is a symbol that represents what kind of data it is.  Tableau has assigned a type that it thinks best suits each piece of data.  These types are important for working with certain visualisations.  In the "Show Me" menu when you hover over certain visualisations it will show that a specific type of data is required to use it.  For example the Map visualisations require geo data.  If you want to change the type on a piece of data click on the down arrow that appears when you hover over it.  Go down to "Change Data Type" and select the data's new type.  Keep in mind the data that you are changing the type of.  Just because you changed you list of products into geo data does not mean that Tableau will be able to make a map out of it.  You can also change data from being a dimension to being a measure by clicking its down arrow and selecting "Convert to Measure/Dimension".  This can be useful if you want the count of values in a piece of data as opposed to the value's themselves.
 
 
-### Sheets, Dashboards, and Stories
+### Sheets and Dashboards
 
 Now that you can make visualisations you need to know how to show them off.  At the bottom left of the visualisation area you will see the buttons to add new sheets, dashboards and stories.  Each sheet can contain one visualisation.  For this example lets make three sheets with three different visualisations on them.  Rename your sheets to something representative of what the visualisation contains by right clicking on the sheet in the bottom menu and selecting "Rename".  Next we will create a dashboard using the "New Dashboard" button on the bottom bar.  A dashboard lets you display and arrange your visualisations in a powerful interactive display.  
   
@@ -94,7 +94,14 @@ Now is a good time to **save your progress**.  Saving frequently is a good habit
   
 ![Screenshot 12][scrn12]  
   
-
+Now for the fun part!  Lets close this workbook and go back to tableau online.  Click on the views tab.  Here we can see all of our hard work!  Lets hover over Dashboard 1 and then click the "View" button that appears.  Welcome to your dashboard!  In view mode you can interact with your visualisations the same as you could in editing mode except you can't change anything.  Since we made Customers per country our filter clicking on a country will still alter our data.  Also now that we are in view mode our button takes us back and forth between Dashboard 1 and Dashboard 2.  
+  
+Now let's go back into editing mode and look at one more tool.  
+  
+![Screenshot 13][scrn13]  
+  
+  
+### Stories
 
 
 
