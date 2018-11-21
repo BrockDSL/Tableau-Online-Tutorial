@@ -98,7 +98,7 @@ Now for the fun part!  Lets close this workbook and go back to tableau online.  
   
 Now let's go back into editing mode and look at one more tool.  
   
-![Screenshot 13][scrn13]  
+![Screenshot 14][scrn14]  
   
   
 ### Stories
@@ -120,7 +120,6 @@ Now let's go back into editing mode and look at one more tool.
 [scrn10]: tableau-scrn10.png 
 [scrn11]: tableau-scrn11.png 
 [scrn12]: tableau-scrn12.png 
-[scrn13]: tableau-scrn13.png 
 [scrn14]: tableau-scrn14.png 
 [scrn15]: tableau-scrn15.png 
 [scrn16]: tableau-scrn16.png 
