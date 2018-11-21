@@ -101,7 +101,13 @@ Now let's go back into editing mode and look at one more tool.
 ![Screenshot 14][scrn14]  
   
   
-### Stories
+### Stories  
+
+Stories are interactive slideshows that let you present data visualisations in an order that suits your needs.  To create a new story, click on the "New Story" button on the bottom bar.  To make a quick and simple story, double click on one of you sheets in the menu to add it to the story and then click in the caption box at the top and name the page sometheing relevant to the visualisation it contains.  Repeat this for your other two sheets and it should look like below.  
+  
+![Screenshot 15][scrn15]  
+  
+
 
 
 
