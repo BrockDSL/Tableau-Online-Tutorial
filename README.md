@@ -107,7 +107,7 @@ Stories are interactive slideshows that let you present data visualisations in a
   
 ![Screenshot 15][scrn15]  
   
-Stories can also be made out of dashboards although buttons do not work in stories.  Stories are the best option for displaying visualisations in a presentation setting where you have a flow of information or a point that you are trying to make with the data.  Using dashboards on their own can be a better option when you are giving the information to someone else to look at and you want them to be able to move around the dat freely.  
+Stories can also be made out of dashboards although buttons do not work in stories.  Stories are the best option for displaying visualisations in a presentation setting where you have a flow of information or a point that you are trying to make with the data.  Using dashboards on their own can be a better option when you are giving the information to someone else to look at and you want them to be able to move around the data freely.  
   
 Think about who your visualisations are for when you are deciding how to present them.  
   
