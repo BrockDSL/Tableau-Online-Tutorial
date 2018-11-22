@@ -116,7 +116,7 @@ Think about who your visualisations are for when you are deciding how to present
 
 Now that you have made a beautiful dashboard or story lets share it!  There are two ways to share a visualisation from Tableau Online.  First navigate to your visualisation in view mode (not edit mode).  Click on the "Share" button at the top of the visualisation.  You will be provided with an embed code that you can use to embed your visualisation on a website and a link that allows anyone to view and interact with your visualisation.  The "E-Mail" button opens up an e-mail pre-filled with the link for you.
 
-For example https://us-east-1.online.tableau.com/t/tableauatbrockdigitalscholarshiplab/views/SippingDataVisualisations/Dashboard3?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no  
+For example you can see the [sample visualisation from this tutorial](https://us-east-1.online.tableau.com/t/tableauatbrockdigitalscholarshiplab/views/SippingDataVisualisations/Dashboard3?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) here.
   
 Happy Sharing!  
   
