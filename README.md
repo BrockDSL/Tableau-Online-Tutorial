@@ -16,7 +16,7 @@ First things first you will need to download the files that we will be using for
 Next you will need to log in to Tableau Online.  Navigate to the [login page](https://sso.online.tableau.com/public/idp/SSO) and enter your login information.  If you do not have a login you can request a free trial of the full version of Tableau Online [here](https://www.tableau.com/trial/tableau-online).  
   
   
-Once you have logged in you should arrive at you Tableau Home Screen.  Your Home screen on Tableau can be changed so to make sure that you are on the correct screen, click on the "Projects" tab.
+Once you have logged in you should arrive at you Tableau Home Screen.  Your Home Xcreen on Tableau can be changed so to make sure that you are on the correct screen, click on the "Projects" tab.
 ![Screenshot 1][scrn1]  
   
 Now we will create a new project by clicking on the "New Project" button.  In the new project popup enter the title you want to use and a description of the project.  For this example we will use "Shipping Data Analytics" as our project name and will describe it as "Learning to use Tableau is awesome!".  
