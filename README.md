@@ -113,11 +113,11 @@ Stories can also be made out of dashboards, although buttons do not work in stor
 Think about who your visualizations are for when you are deciding how to present them.  
   
 
-### Sharing your Visualisations
+### Sharing your Visualizations
 
 Now that you have made a beautiful dashboard or story let's share it! Tableau Online offers two ways to share a visualization.  First navigate to your visualization in view mode (not edit mode).  Click on the "Share" button at the top of the visualization.  You will be provided with an embed code that you can use to embed your visualization on a website and a link that allows anyone to view and interact with your visualization.  The "E-Mail" button opens up an e-mail pre-filled with the link for you.
 
-For example you can see the [sample visualisation from this tutorial](https://us-east-1.online.tableau.com/t/tableauatbrockdigitalscholarshiplab/views/SippingDataVisualisations/Dashboard3?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) here.
+For example you can see the [sample visualization from this tutorial](https://us-east-1.online.tableau.com/t/tableauatbrockdigitalscholarshiplab/views/SippingDataVisualisations/Dashboard3?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) here.
   
 Happy Sharing!  
   
