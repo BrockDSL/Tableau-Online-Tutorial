@@ -121,16 +121,27 @@ Now that you have made a beautiful dashboard or story let's share it! Tableau On
 
 For example you can see the [sample visualization from this tutorial](https://us-east-1.online.tableau.com/t/tableauatbrockdigitalscholarshiplab/views/SippingDataVisualisations/Dashboard3?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no) here.
   
-Happy Sharing!  
+![Screenshot 16][scrn16]  
   
-![Screenshot 16][scrn16]
+Happy Sharing!  
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+![DSL Logo][imglogo]  
+  
+**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
+  
+You can also find us on:  
+[Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
+[Twitter](https://twitter.com/brock_dsl)  
+[Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
+  
 
 
-
-
-
-
-
+[imglogo]: dsl-logo.jpg
 [scrn1]: tableau-scrn1.png  
 [scrn2]: tableau-scrn2.png  
 [scrn3]: tableau-scrn3.png  
