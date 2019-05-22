@@ -1,8 +1,9 @@
 
 
 # Introduction to Tableau Online 
+A beginners guide to making interactive data visualizations using Tableau Online  
 <img src="tableau-logo.jpg" alt="Logo" width="150px" hight="150px">
-A beginners guide to making interactive data visualizations using Tableau Online
+
 
 
 
